@@ -33,5 +33,4 @@ APK akan muncul di:
 
 ## 🔑 API Key
 
-Dapatkan dari: https://www.themoviedb.org/settings/api  
-Ganti `YOUR_API_KEY_HERE` di `home_page.dart`
+di `home_page.dart`
