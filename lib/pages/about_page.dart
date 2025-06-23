@@ -9,7 +9,7 @@ class AboutPage extends StatelessWidget {
         child: Text(
           'Movie Explorer dibuat dengan Flutter.\n\n'
           'Menggunakan TheMovieDB API.\n\n'
-          'Dikembangkan oleh [Nama Kamu]',
+          'Dikembangkan oleh zahruddin id ',
           textAlign: TextAlign.center,
           style: TextStyle(fontSize: 16),
         ),
